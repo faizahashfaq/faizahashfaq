@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Faiza Ashfaq 👨‍💻</h1>
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250px" align="right"/>
 
 <p align="center">
   Software Engineer | Ruby on Rails | AWS 
