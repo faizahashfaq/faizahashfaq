@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  I'm a Software Engineer with over two years of experience building scalable and efficient web applications. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions. Let's connect and create something remarkable! 
+  I'm a Software Engineer with almost three years of experience building scalable and efficient web applications. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions. Let's connect and create something remarkable! 
 </p>
 
 ---
