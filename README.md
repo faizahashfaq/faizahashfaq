@@ -2,12 +2,19 @@
 <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250px" align="right"/>
 
 <p align="center">
-  Software Engineer | Ruby on Rails | AWS 
+  Software Engineer | Ruby on Rails | AWS | Javascript
 </p>
 
 <p>
-  I'm a Software Engineer with almost three years of experience building scalable and efficient web applications. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions. Let's connect and create something remarkable! 
+  I'm a Software Engineer with over three years of experience building scalable and efficient web applications. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions. Let's connect and create something remarkable! 
 </p>
+
+---
+
+## <img alt="Currently working" src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" height="20" width="20"> Currently working on
+
+- 🛠️ Discord bot with offers and earning opportunity – *(private repo for now; polishing MVP)*
+- 📝 Personal blog - Publishing through Notion (Next.js) – *(in progress)*
 
 ---
 
@@ -16,9 +23,6 @@
 <p align="center">
   <a href="mailto:faizahashfaq@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://github.com/faizahashfaq">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="23" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/faizahashfaq/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="23"/>
