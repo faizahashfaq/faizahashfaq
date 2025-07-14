@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faiza Ashfaq 👨‍💻</h1>
+<h1 align="center">Hi, I'm Faiza 👨‍💻</h1>
 <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250px" align="right"/>
 
 <p align="center">
