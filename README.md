@@ -14,7 +14,7 @@
 ## <img alt="Currently working" src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" height="20" width="20"> Currently working on
 
 - 🛠️ Discord bot with offers and earning opportunity – *(private repo for now; polishing MVP)*
-- 📝 Personal blog - Publishing through Notion (Next.js) – *(in progress)*
+- 📝 Personal blog - Publishing through Notion (Next.js) – *(Published! With a million bugs but its live)*
 
 ---
 
