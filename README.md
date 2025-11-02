@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Faiza 👨‍💻</h1>
+<h1 align="center">Hi, I'm Faiza 👩‍💻</h1>
 <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250px" align="right"/>
 
 <p align="center">
-  Software Engineer | Ruby on Rails | AWS | Javascript
+  Software Engineer | Ruby on Rails | AWS | Javascript (trying to accept it)
 </p>
 
 <p>
-  I'm a Software Engineer with over three years of experience building scalable and efficient web applications. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions. Let's connect and create something remarkable! 
+  I'm a Software Engineer with over three years of experience in the services industry. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions, despite not having done so.
 </p>
 
 ---
 
 ## <img alt="Currently working" src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" height="20" width="20"> Currently working on
 
-- 🛠️ Discord bot with offers and earning opportunity – *(private repo for now; polishing MVP)*
-- 📝 Personal blog - Publishing through Notion (Next.js) – *(Published! With a million bugs but its live)*
+- Discord bot with offers and earning opportunity – *(private repo for now; polishing MVP, also thinking of abandoning since non-US publishers lowball)*
+- 📝 Personal blog - Publishing through Notion (Next.js) - Updating and writing occasionally – *(Published [here](https://404-blog.vercel.app/))*
 
 ---
 
