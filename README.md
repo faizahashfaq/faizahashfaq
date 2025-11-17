@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="20"/>
   <img src="https://img.shields.io/badge/GitHub%20Workflows-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Workflows" height="20"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" alt="Jira" height="20"/>
+  <img src="https://img.shields.io/badge/Shortcut-6610F2?style=plastic&logo=clubhouse&logoColor=white" alt="Shortcut" height="20"/>
 </p>
 
 ### Operating Systems:
