@@ -59,13 +59,6 @@
   <img src="https://img.shields.io/badge/Shortcut-6610F2?style=plastic&logo=clubhouse&logoColor=white" alt="Shortcut" height="20"/>
 </p>
 
-### Operating Systems:
-<p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" height="24">
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" height="24">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="24">
-</p>
-
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together!
