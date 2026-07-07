@@ -17,6 +17,12 @@
 
 ---
 
+## <img alt="Recently Finished" src="https://cdn-icons-png.flaticon.com/512/7212/7212799.png" height="20" width="20"> Recently Finished
+
+- Gym Website - Next.js SPA for a gym – *(Published [here](https://ashfaqbuttfitnesszone.com/))*
+
+---
+
 ## 🤝 You can find me on
 
 <p align="center">
