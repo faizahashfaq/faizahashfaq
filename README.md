@@ -14,6 +14,7 @@
 ## <img alt="Currently working" src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" height="20" width="20"> Currently working on
 
 - Personal blog - Publishing through Notion (Next.js) - Updating and writing occasionally – *(Published [here](https://404-blog.vercel.app/))*
+- Discord bot for offers - DiscordJs
 
 ---
 
