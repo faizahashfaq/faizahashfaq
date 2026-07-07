@@ -2,18 +2,17 @@
 <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250px" align="right"/>
 
 <p align="center">
-  Software Engineer | Ruby on Rails | AWS | Javascript
+  Software Engineer | Backend-Focused| APIs at Scale | AWS
 </p>
 
 <p>
-  I'm a Software Engineer with over three years of experience in the services industry. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving and collaborating on impactful solutions, despite not having done so.
+  I'm a Software Engineer with 4+ years of experience in the services industry. My expertise lies in Ruby on Rails, PostgreSQL, and AWS. I have worked on large-scale projects, focusing on optimizing databases, integrating third-party services, and enhancing system performance. I love problem-solving, collaborating with teams on impactful, production-scale solutions, and picking up new, challenging things — lately that's included mentoring interns and doing more of the frontend (Next.js) alongside backend work.
 </p>
 
 ---
 
 ## <img alt="Currently working" src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" height="20" width="20"> Currently working on
 
-- Discord bot with offers and earning opportunity – *(private repo for now; also thinking of abandoning since non-US publishers lowball offers)*
 - Personal blog - Publishing through Notion (Next.js) - Updating and writing occasionally – *(Published [here](https://404-blog.vercel.app/))*
 
 ---
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" alt="Rails" height="20"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" height="20"/>
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=plastic&logo=react&logoColor=white" alt="ReactJS" height="20"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js" height="20"/>
 </p>
 
 ### Database & DevOps:
@@ -61,5 +61,4 @@
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together!
-
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something together!
